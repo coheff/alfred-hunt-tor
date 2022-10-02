@@ -2,7 +2,7 @@
 An Alfred torrent search workflow powered by Go
 
 # Download & installation
-Grab the the latest version from the [releases page](https://github.com/coheff/alfred-hunt-tor/releases/tag/v0.1.0).
+Grab the the latest version from the [releases page](https://github.com/coheff/alfred-hunt-tor/releases/tag/v0.1.0). Double click workflow file to import into Alfred.
 
 # Usage
 Trigger a search using the keyword `t` followed by a search query. \
